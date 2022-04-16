@@ -8,7 +8,7 @@ void main() {
         ),
         floatingActionButton: FloatingActionButton(
             onPressed: () {},
-            backgroundColor: Colors.deepPurple,
+            backgroundColor: Colors.blue,
             child: Icon(Icons.add))),
   ));
 }
